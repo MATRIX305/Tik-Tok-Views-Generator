@@ -10,5 +10,5 @@ I am using what is called a 'headless' browser. Essentially, it acts like a regu
 Follow these steps to get set up with the TikTok viewer. 
 
 1. Press the run with Repl.it Button below:
-	
+	[![Run on Repl.it](https://repl.it/badge/github/pieromqwerty/Tik-Tok-Views-Generator)](https://repl.it/github/pieromqwerty/Tik-Tok-Views-Generator)
 2. 
